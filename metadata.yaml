@@ -1,5 +1,8 @@
 _repo: Le-fameux-chevalier-Gaspard-de-Bresse_73118
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73118-h/images/cover.jpg
 creator:
   author:
     agent_name: Aicard, Jean
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Aicard
     - https://fr.wikipedia.org/wiki/Jean_Aicard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73118#Le-fameux-chevalier-Gaspard-de-Bresse
 gutenberg_issued: '2024-03-07'
 gutenberg_type: Text
 identifiers:
